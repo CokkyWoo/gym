@@ -3,6 +3,7 @@
 日期 | 说明
 ---|---
 2017/8/5 | 创建，来源于twitter
+2017/8/14 | 增加游山打猎订阅源，奇遇花园创始人，社会话题
 
 Telegram 群
 
@@ -544,16 +545,12 @@ Telegram 群
     - Boring Class：https://t.me/BoringClass
     - Think Positive Words：https://t.me/thinkpositivewords
     - BURSA KLCI 股市资讯：https://t.me/kywtraders
-
     - 小牛课堂之股市新手手册：https://t.me/KYWsharetraining
-
     - 全膜法新蛤社：https://t.me/Chinamogicunion
-
     - 燎原：https://t.me/liaoyuan
-
     - 在花One（微信公众号）：https://t.me/zaihuacat
-
     - 胖客十袋：https://t.me/pankt
+    - 游山打猎：https://t.me/zhanbinstory
 
 - 其他
     - My Desctop（Cool 4k, HD wallpapers）：https://t.me/PhoneDesctop
